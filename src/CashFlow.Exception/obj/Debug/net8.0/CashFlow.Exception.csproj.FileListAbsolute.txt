@@ -1,0 +1,11 @@
+C:\Users\bruno\OneDrive\Ambiente de Trabalho\repos\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.deps.json
+C:\Users\bruno\OneDrive\Ambiente de Trabalho\repos\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.dll
+C:\Users\bruno\OneDrive\Ambiente de Trabalho\repos\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.pdb
+C:\Users\bruno\OneDrive\Ambiente de Trabalho\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Ambiente de Trabalho\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Ambiente de Trabalho\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Ambiente de Trabalho\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Ambiente de Trabalho\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.dll
+C:\Users\bruno\OneDrive\Ambiente de Trabalho\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Exception.dll
+C:\Users\bruno\OneDrive\Ambiente de Trabalho\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
+C:\Users\bruno\OneDrive\Ambiente de Trabalho\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll
